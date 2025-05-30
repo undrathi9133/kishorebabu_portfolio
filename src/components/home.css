@@ -1,0 +1,46 @@
+.homepage-container {
+  font-family: Arial, sans-serif;
+  padding: 50px;  
+}
+
+.header {
+  margin-bottom: 30px;
+}
+
+.profile-image-container {
+  display: flex !important;
+  justify-content: center !important;
+  align-self: center !important;
+  height: 100% !important;
+}
+
+.profile-image {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;  
+  box-shadow: 0px 0px 20px 0px #32496660;
+  object-position: center 0% !important;
+}
+
+.name {
+  font-size: 30px;
+  color: #324966;
+  font-weight: 600;  
+}
+
+.title {
+  font-size: 18px;
+  color: #555555d8;  
+}
+
+@media (max-width: 992px) {
+  .profile-info {
+    text-align: center !important;    
+  }
+
+  .stack-buttons-container {
+    display: flex !important;
+    justify-content: center !important;
+  }
+}

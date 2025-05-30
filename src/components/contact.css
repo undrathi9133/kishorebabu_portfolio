@@ -1,0 +1,28 @@
+.getintouch-bg {
+  background-color: #324966;
+  width: 100% !important;
+  height: 200px;
+}
+
+.getintouch {
+  color: #fff !important;
+  vertical-align: middle !important;
+  position: relative;
+  top: -100px;
+}
+
+.contact-cards {
+  position: relative;
+  top: -80px;
+  text-align: center !important;
+}
+
+.contact-cards .card {
+  background-color: rgb(251, 253, 255);
+  display: flex !important;
+  height: 100% !important;  
+}
+
+.contact-cards .btn {
+  bottom: 0 !important;  
+}

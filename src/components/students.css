@@ -1,0 +1,10 @@
+.badge.rounded-pill {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    background-color: #324966 !important;
+}
+
+.badge.rounded-pill:hover,
+.badge.rounded-pill.active {
+    background-color: #313b42 !important;
+}
