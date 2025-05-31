@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/undrathi9133/kishorebabu_portfolio",
+  "homepage": "https://undrathi9133.github.io/kishorebabu_portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -30,6 +30,7 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
-    "vite": "^6.0.5"
+    "vite": "^6.0.5",
+    "gh-pages": "^6.3.0"
   }
 }
