@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kishorebabudasari.github.io/kishorebabuprofile_portfolio",
+  "homepage": "https://github.com/undrathi9133/kishorebabu_portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
